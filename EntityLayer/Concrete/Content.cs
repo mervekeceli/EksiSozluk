@@ -11,7 +11,5 @@ namespace EntityLayer.Concrete
         public int ContentId { get; set; }
         public string ContentValue { get; set; }
         public DateTime ContentDate { get; set; }
-
-
     }
 }
